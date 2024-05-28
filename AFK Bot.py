@@ -19,4 +19,3 @@ while True:
         curr_coords = pag.position()
     print(f"AFK Counter: {afk_counter}")
     time.sleep(2)
-
